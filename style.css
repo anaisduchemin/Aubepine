@@ -1,0 +1,42 @@
+
+.col-md-7 {
+	padding-left: 100px;
+	padding-top:30px;
+}
+
+.navbar
+{
+padding-left:80px;
+}
+
+#navbarNavDropdown{
+display:flex;
+justify-content: left;
+padding-left: 50px;
+padding-top : 14px;
+font-size:20px;
+}
+
+.col-lg-4{
+	padding-left:70px;
+	padding-right:70px;
+	font-style: italic;	
+}
+
+.clearfix{
+	padding-left: 100px;
+	padding-right:100px;
+}
+
+.titreapp{
+padding-left:100px;
+color:#76B6B4;
+}
+
+#button-addon2{
+box-shadow: 0 0 4px #76B6B4;
+}
+
+a:hover {
+  background-color:#FEF7F9;
+}
